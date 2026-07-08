@@ -1,4 +1,4 @@
-```cpp
+
 # Gas Detection System Arduino Code
 
 #include <Wire.h>
@@ -187,4 +187,3 @@ void loop() {
 }
 
 
-```
