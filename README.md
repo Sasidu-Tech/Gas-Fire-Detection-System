@@ -1,4 +1,4 @@
-`cpp
+```cpp
 # 🔥 Gas & Fire Detection System using ESP32
 
 
@@ -189,8 +189,9 @@ Gas-Fire-Detection-ESP32/
 ESP32 | Arduino | IoT | Embedded Systems
 
 ---
-```
 
 # ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
+```
+
