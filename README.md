@@ -1,5 +1,7 @@
-```cpp
+
 # 🔥 Gas & Fire Detection System using ESP32
+
+![ESP32 Wi-Fi Scanner](images/Gas%20%26%20Fire%20Detection-07.jpeg)
 
 
 ## 📌 Overview
@@ -193,5 +195,5 @@ ESP32 | Arduino | IoT | Embedded Systems
 # ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
-```
+
 
